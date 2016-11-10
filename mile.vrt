@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="mile">
+        <SrcDataSource>mile.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>WGS84</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="Long" y="Lat"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
