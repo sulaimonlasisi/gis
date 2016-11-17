@@ -6,3 +6,7 @@
 .shx
 .shp
 .ssh
+data/
+build/
+.gitconfig
+.viminfo
